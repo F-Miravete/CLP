@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Esum1b
+Z0 w1710796987
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\sumador1b\simulate
+Z4 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b.vhd
+Z5 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b.vhd
+l0
+L7
+V1dR[KmnedK7D_N8W95?EO1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1710966097.440000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b.vhd|
+Z9 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 8VUnmM`?UUc?`mGR5Yo>A1
+!i10b 1
+Asum1b_arch
+R1
+R2
+DEx4 work 5 sum1b 0 22 1dR[KmnedK7D_N8W95?EO1
+l19
+L18
+VKKM:z^WB?OPNCJA8^^BGk0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 FUn8ikdz84Z@Ub3Y=FUS10
+!i10b 1
+Esum1b_tb
+Z12 w1710372178
+R1
+R2
+R3
+Z13 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b_tb.vhd
+Z14 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b_tb.vhd
+l0
+L4
+VcT9g[A3oYPKJ:_KGiMN853
+!s100 I0;GKe<H;W>?I2OdAoTFO3
+R6
+32
+!i10b 1
+Z15 !s108 1710966097.540000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b_tb.vhd|
+Z17 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/sumador1b/src/sumador1b_tb.vhd|
+R10
+R11
+Asum1b_tb_arq
+R1
+R2
+DEx4 work 8 sum1b_tb 0 22 cT9g[A3oYPKJ:_KGiMN853
+l27
+L7
+V<fGgO6GHE?Q>Ha@8G7H0E3
+!s100 UkXWY@EJ6QEE?mo2FPM[33
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
