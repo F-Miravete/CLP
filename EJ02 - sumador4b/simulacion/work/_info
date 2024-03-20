@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Esum1b
+Z0 w1710796987
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ02 - sumador4b\simulacion
+Z4 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ01 - sumador1b/fuentes/sumador1b.vhd
+Z5 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ01 - sumador1b/fuentes/sumador1b.vhd
+l0
+L7
+V1dR[KmnedK7D_N8W95?EO1
+!s100 8VUnmM`?UUc?`mGR5Yo>A1
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1710970646.822000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ01 - sumador1b/fuentes/sumador1b.vhd|
+Z9 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ01 - sumador1b/fuentes/sumador1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Asum1b_arch
+R1
+R2
+DEx4 work 5 sum1b 0 22 1dR[KmnedK7D_N8W95?EO1
+l19
+L18
+VKKM:z^WB?OPNCJA8^^BGk0
+!s100 FUn8ikdz84Z@Ub3Y=FUS10
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Esum4b
+Z12 w1710969623
+R1
+R2
+R3
+Z13 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b.vhd
+Z14 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b.vhd
+l0
+L7
+V>8LkA5a`aHo7m0W=:HGGb1
+R6
+32
+Z15 !s108 1710970646.655000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b.vhd|
+Z17 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b.vhd|
+R10
+R11
+!s100 ?4f_z=KLJ`o8eZ4LZGM7G0
+!i10b 1
+Asum4b_arch
+R1
+R2
+DEx4 work 5 sum4b 0 22 >8LkA5a`aHo7m0W=:HGGb1
+l33
+L18
+V5R7VkZJ0GFIY6RIa@]bG33
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 ^B59nCRzXGh2N9<iS1=fC1
+!i10b 1
+Esum4b_tb
+Z18 w1710970254
+R1
+R2
+R3
+Z19 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b_tb.vhd
+Z20 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b_tb.vhd
+l0
+L4
+V?aUG<Q`oNX]jEiLeUNYLi2
+R6
+32
+Z21 !s108 1710970646.734000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b_tb.vhd|
+Z23 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ02 - sumador4b/fuentes/sumador4b_tb.vhd|
+R10
+R11
+!s100 >goVAZX]XYSSdeL>;67dZ2
+!i10b 1
+Asum4b_tb_arq
+R1
+R2
+DEx4 work 8 sum4b_tb 0 22 ?aUG<Q`oNX]jEiLeUNYLi2
+l27
+L7
+VK@[eV05U=>6o0JNDdzB[A2
+!s100 7fC@9V9YJgkiF<F:fnG0@0
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!i10b 1
