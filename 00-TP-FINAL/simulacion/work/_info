@@ -3,24 +3,98 @@ K3
 13
 cModel Technology
 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ02 - sumador4b\simulacion
-Enco8
-Z0 w1712350369
+Enco12
+Z0 w1712421455
 Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
 Z4 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\00-TP-FINAL\simulacion
-Z5 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd
-Z6 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd
+Z5 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12.vhd
+Z6 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12.vhd
+l0
+L22
+V6MQlKmR<iEjk0Y9h7zWPV3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1712421471.596000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12.vhd|
+Z10 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 L:1GWC>f_SM^060g0fTNI3
+!i10b 1
+Anco12_arch
+R1
+R2
+R3
+DEx4 work 5 nco12 0 22 6MQlKmR<iEjk0Y9h7zWPV3
+l35
+L30
+VA@E[aiM@C]EDkGLV7diER3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 C6SGSh@eaID4>>hh]DGc;3
+!i10b 1
+Enco12_tb
+Z13 w1712420810
+R1
+R2
+R3
+R4
+Z14 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12_tb.vhd
+Z15 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12_tb.vhd
+l0
+L22
+VzS[ANlN5l:gVF@H7f2O=Y2
+!s100 nFF@=?f^NI9LSdA`8Mdko3
+R7
+32
+!i10b 1
+Z16 !s108 1712421471.737000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12_tb.vhd|
+Z18 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco12_tb.vhd|
+R11
+R12
+Anco12_tb_arq
+R1
+R2
+R3
+Z19 DEx4 work 8 nco12_tb 0 22 zS[ANlN5l:gVF@H7f2O=Y2
+l42
+L25
+Z20 VZ1i[:R`?[R0h0RINcR6L=2
+!s100 Bg>``aE0nIzmgO]lz4Ui70
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12
+Enco8
+Z21 w1712350369
+R1
+R2
+R3
+R4
+Z22 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd
+Z23 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd
 l0
 L5
 V>hRk4omeR:Yk8W4E`?NB82
-Z7 OV;C;10.1d;51
+R7
 32
-Z8 !s108 1712360425.850000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd|
-Z10 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd|
-Z11 o-work work -2002 -explicit -O0
-Z12 tExplicit 1
+Z24 !s108 1712360425.850000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd|
+Z26 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco.vhd|
+R11
+R12
 !s100 W>Dg_?5Tz5fM>22@S];Y_3
 !i10b 1
 Artl
@@ -31,49 +105,49 @@ DEx4 work 4 nco8 0 22 >hRk4omeR:Yk8W4E`?NB82
 l19
 L14
 V<2Yo8=hRUMVWm0H3TamnK1
-!s100 3g677F<lSEXSoFJM;^mSN3
 R7
 32
-R8
-R9
-R10
+R24
+R25
+R26
 R11
 R12
+!s100 3g677F<lSEXSoFJM;^mSN3
 !i10b 1
 Enco8_tb
-Z13 w1712360412
+Z27 w1712360412
 R1
 R2
 R3
 R4
-Z14 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd
-Z15 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd
+Z28 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd
+Z29 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd
 l0
 L5
 Vb@76mZgNZhbZc=F`eWBQO1
-!s100 C[cgc_`n:2Ne<UWUCIclM0
 R7
 32
-!i10b 1
-Z16 !s108 1712360426.010000
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd|
-Z18 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd|
+Z30 !s108 1712360426.010000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd|
+Z32 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/nco_tb.vhd|
 R11
 R12
+!s100 C[cgc_`n:2Ne<UWUCIclM0
+!i10b 1
 Anco8_tb_arq
 R1
 R2
 R3
-Z19 DEx4 work 7 nco8_tb 0 22 b@76mZgNZhbZc=F`eWBQO1
+DEx4 work 7 nco8_tb 0 22 b@76mZgNZhbZc=F`eWBQO1
 l27
 L8
 V^<6NnU9inc<zcn]=P4BMY2
-!s100 P4Y<lkOkl0@QJIZJ0lV6g2
 R7
 32
-!i10b 1
-R16
-R17
-R18
+R30
+R31
+R32
 R11
 R12
+!s100 P4Y<lkOkl0@QJIZJ0lV6g2
+!i10b 1
