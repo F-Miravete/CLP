@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1712620454">
+  <File Type="PA-TCL" Name="waveGenerator.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="waveGenerator_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="waveGenerator_reports.tcl"/>
+  <File Type="RDS-RDS" Name="waveGenerator.vds"/>
+  <File Type="RDS-UTIL" Name="waveGenerator_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="waveGenerator_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="waveGenerator.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="waveGenerator_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="waveGenerator_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/fuentes/sincos_rom.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/sincos_rom.vhd"/>
+        <Attr Name="ImportTime" Val="1712432086"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/fuentes/waveGenerator.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/waveGenerator.vhd"/>
+        <Attr Name="ImportTime" Val="1712431158"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="waveGenerator"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/waveGenerator_ArtyZ7_10.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

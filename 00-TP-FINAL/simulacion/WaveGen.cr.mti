@@ -1,0 +1,29 @@
+{C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity waveGenerator
+-- Compiling architecture waveGenerator_arch of waveGenerator
+
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity waveGenerator_tb
+-- Compiling architecture waveGenerator_tb_arq of waveGenerator_tb
+
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/sincos_rom.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/sincos_rom.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity sincos_rom
+-- Compiling architecture sincos_rom_arch of sincos_rom
+
+} {} {}}
