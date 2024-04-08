@@ -53,7 +53,7 @@ architecture waveGenerator_arch of waveGenerator is
     
     --------------------------------------------------------------------------
     -- Formula del oscilador NCO : i_phase = (Fout / Fclk)*2^12             --
-    --                                                                      --
+    --                             Fout = (i_phase * Fclk) / 4096           --
     -- E.g. Fout = 1,56MHz, Fclk = 100MHz,  i_phase = (1,56/100)*4096 = 64  --
     --                                                                      --    
     --------------------------------------------------------------------------
