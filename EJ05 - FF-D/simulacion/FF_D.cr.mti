@@ -1,0 +1,17 @@
+{C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ff_d
+-- Compiling architecture ff_d_arch of ff_d
+
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ff_d_tb
+-- Compiling architecture ff_d_tb_arq of ff_d_tb
+
+} {} {}}

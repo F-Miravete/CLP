@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ05 - FF-D\simulacion
+Ereg
+Z0 w1713104107
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ06 - ShiftRegister\simulacion
+Z4 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/09_reg.vhd
+Z5 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/09_reg.vhd
+l0
+L4
+V_6cliY8fG43B_YT4Njell0
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713104249.674000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/09_reg.vhd|
+Z9 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/09_reg.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 9`ZKRQZRTmWkE`ma1g2fh1
+!i10b 1
+Areg_arq
+R1
+R2
+DEx4 work 3 reg 0 22 _6cliY8fG43B_YT4Njell0
+l18
+L17
+ViZ=e6oUW0YK^alSzG`Z372
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 P@`@lP?BSJcJDkFEbXDUR0
+!i10b 1
+Ereg_tb
+Z12 w1713104107
+R1
+R2
+R3
+Z13 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/10_reg_tb.vhd
+Z14 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/10_reg_tb.vhd
+l0
+L5
+Vg<Thf6fiS<lLYOaJ;HOjo0
+!s100 Vhd2MiiaT[PU`KhZfbQzO3
+R6
+32
+!i10b 1
+Z15 !s108 1713104249.830000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/10_reg_tb.vhd|
+Z17 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ06 - ShiftRegister/fuentes/10_reg_tb.vhd|
+R10
+R11
+Areg_tb_arq
+R1
+R2
+DEx4 work 6 reg_tb 0 22 g<Thf6fiS<lLYOaJ;HOjo0
+l32
+L8
+VgcMP0iXKIWa079;20i>^K3
+!s100 WS8d=XClXI`LE>]M`l8713
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
