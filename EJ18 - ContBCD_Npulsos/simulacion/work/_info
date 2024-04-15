@@ -1,0 +1,151 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ17 - GenHab\simulacion
+Econtbcd_1d
+Z0 w1713203926
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ18 - ContBCD_Npulsos\simulacion
+Z5 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd
+Z6 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd
+l0
+L9
+VOXP@j??`2]GN;DSYlkaYN1
+!s100 B@7`?3]U9_zgVXA8_n32_1
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1713214000.158000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd|
+Z10 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Acontbcd_1d_arch
+R1
+R2
+R3
+Z13 DEx4 work 10 contbcd_1d 0 22 OXP@j??`2]GN;DSYlkaYN1
+l23
+L19
+Z14 VLNBRG[7KCO^zMW=a17Z^^1
+Z15 !s100 K93Lc[E`lf4O?IX97_Yz01
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Econtbcd_npulsos
+Z16 w1713213081
+R1
+R2
+R3
+R4
+Z17 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos.vhd
+Z18 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos.vhd
+l0
+L15
+VJ3ibdD]5aJ>VRDob=BzZi0
+R7
+32
+Z19 !s108 1713213999.835000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos.vhd|
+Z21 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos.vhd|
+R11
+R12
+!s100 MXY8=hO:QgEa_<OKSeBcM1
+!i10b 1
+Acontbcd_npulsos_arch
+R1
+R2
+R3
+DEx4 work 15 contbcd_npulsos 0 22 J3ibdD]5aJ>VRDob=BzZi0
+l51
+L25
+V7?BTMNE5`PdWfo6AooVkW1
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 g0[MhJ=O6>YGCVSVZ>Klj2
+!i10b 1
+Econtbcd_npulsos_tb
+Z22 w1713213983
+R1
+R2
+R3
+R4
+Z23 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos_tb.vhd
+Z24 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos_tb.vhd
+l0
+L9
+VjHE?2HIe2;zTDb81flICI2
+R7
+32
+Z25 !s108 1713213999.989000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos_tb.vhd|
+Z27 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ18 - ContBCD_Npulsos/fuentes/contBCD_Npulsos_tb.vhd|
+R11
+R12
+!s100 ON;d0Gz^QYGF_Q14:l9[73
+!i10b 1
+Acontbcd_npulsos_tb_arch
+R1
+R2
+R3
+DEx4 work 18 contbcd_npulsos_tb 0 22 jHE?2HIe2;zTDb81flICI2
+l29
+L12
+VL75>a<kI@W:eXZ6`<g_i20
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 c]JN;:faEIZgSe1b5ifb42
+!i10b 1
+Egenhab
+Z28 w1713209427
+R2
+R3
+R4
+Z29 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd
+Z30 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd
+l0
+L4
+V^4fn9_MM6`iCJLoFQ]43b1
+R7
+32
+Z31 !s108 1713214000.073000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd|
+Z33 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd|
+R11
+R12
+!s100 8E3_4<22>ILckRc26MT_I3
+!i10b 1
+Agenhab_arq
+R2
+R3
+DEx4 work 6 genhab 0 22 ^4fn9_MM6`iCJLoFQ]43b1
+l17
+L16
+V2z9NC`ZYMH>`iEZOO:8H`0
+!s100 3K5;Dm;TMTN3h6AXj>6_K3
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!i10b 1

@@ -1,0 +1,17 @@
+{C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genhab
+-- Compiling architecture genhab_arq of genhab
+
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genhab_tb
+-- Compiling architecture genhab_tb_arch of genhab_tb
+
+} {} {}}
