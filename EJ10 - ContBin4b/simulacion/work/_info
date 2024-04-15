@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ08 - BarrelShifter\simulacion
+Econtbin4b
+Z0 w1713183817
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ10 - ContBin4b\simulacion
+Z4 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b.vhd
+Z5 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b.vhd
+l0
+L4
+VSIAe>NP4_OX9O`zQ[=JP<0
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713184016.408000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b.vhd|
+Z9 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 njZ>X2Om;N<DO;1MCmieI1
+!i10b 1
+Acontbin4b_arch
+R1
+R2
+DEx4 work 9 contbin4b 0 22 SIAe>NP4_OX9O`zQ[=JP<0
+l29
+L14
+VASR^JzoI[d8GcEeVGYBSC3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 bO4aj1ZcW87?R?Uib]`fN3
+!i10b 1
+Econtbin4b_tb
+Z12 w1713183989
+R1
+R2
+R3
+Z13 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b_tb.vhd
+Z14 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b_tb.vhd
+l0
+L4
+V]6Ge[]dW9<<m93B?4b;oG1
+R6
+32
+Z15 !s108 1713184016.487000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b_tb.vhd|
+Z17 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ10 - ContBin4b/fuentes/contbin4b_tb.vhd|
+R10
+R11
+!s100 `CmUHHhTYS51J9bGPMJFH3
+!i10b 1
+Acontbin4b_tb_arch
+R1
+R2
+DEx4 work 12 contbin4b_tb 0 22 ]6Ge[]dW9<<m93B?4b;oG1
+l29
+L7
+Vjn=]<<YzHCZPDh_UfKaCN1
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 k3n>S`AdAf[6C;loWiVOl3
+!i10b 1
+Eff_d
+Z18 w1713102712
+R1
+R2
+R3
+Z19 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd
+Z20 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd
+l0
+L7
+V>ee2?AZbLQOgLz@R02e9I2
+!s100 aP6k0``FaW_^F>8gbge;21
+R6
+32
+!i10b 1
+Z21 !s108 1713184016.556000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd|
+Z23 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ05 - FF-D/fuentes/ff-d.vhd|
+R10
+R11
+Aff_d_arch
+R1
+R2
+Z24 DEx4 work 4 ff_d 0 22 >ee2?AZbLQOgLz@R02e9I2
+l19
+L18
+Z25 VUY4BzLdgf]IURRcSMoNfH2
+Z26 !s100 BU:bdU9Q@<QEEe3TFTV8>1
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11

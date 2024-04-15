@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ10 - ContBin4b\simulacion
+Econtbin4b_bis
+Z0 w1713188903
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ11 - ContBin4b bis\simulacion
+Z5 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis.vhd
+Z6 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis.vhd
+l0
+L10
+VH1:04RUB_fRTNk8Y_:YYn0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1713188909.419000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis.vhd|
+Z10 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 =JN6XMffG9b?9@jaR6MR`2
+!i10b 1
+Acontbin4b_bis_arch
+R1
+R2
+R3
+DEx4 work 13 contbin4b_bis 0 22 H1:04RUB_fRTNk8Y_:YYn0
+l24
+L20
+V=M9Gii4lQX[1lEKG^<IbP2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 j`V_M>n075o0nJ:[>1APk0
+!i10b 1
+Econtbin4b_bis_tb
+Z13 w1713188443
+R1
+R2
+R3
+R4
+Z14 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis_tb.vhd
+Z15 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis_tb.vhd
+l0
+L5
+VGfV[LQ<U:W6^AAd7h0;KI3
+!s100 L?IjRfS<;Y`g^:ZI9KbX>2
+R7
+32
+!i10b 1
+Z16 !s108 1713188909.503000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis_tb.vhd|
+Z18 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ11 - ContBin4b bis/fuentes/contbin4b_bis_tb.vhd|
+R11
+R12
+Acontbin4b_bis_tb_arch
+R1
+R2
+R3
+Z19 DEx4 work 16 contbin4b_bis_tb 0 22 GfV[LQ<U:W6^AAd7h0;KI3
+l30
+L8
+Z20 Vh8gjEA3dl_cF>X;<HP]da2
+Z21 !s100 XdWJ28_Uf06KaFO2FR3OA3
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12
