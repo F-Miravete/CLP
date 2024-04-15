@@ -1,1 +1,19 @@
+{C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ13 - ContBinNb/fuentes/contbinNb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ13 - ContBinNb/fuentes/contbinNb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contbinNb
+-- Compiling architecture contbinNb_arch of contbinNb
 
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ13 - ContBinNb/fuentes/contbinNb_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ13 - ContBinNb/fuentes/contbinNb_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contbinNb_tb
+-- Compiling architecture contbinNb_tb_arch of contbinNb_tb
+
+} {} {}}

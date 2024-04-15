@@ -1,0 +1,19 @@
+{C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD_1D_tb
+-- Compiling architecture contBCD_1D_tb_arch of contBCD_1D_tb
+
+} {} {}} {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd} {1 {vcom -work work -2002 -explicit {C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contBCD_1D
+-- Compiling architecture contBCD_1D_arch of contBCD_1D
+
+} {} {}}

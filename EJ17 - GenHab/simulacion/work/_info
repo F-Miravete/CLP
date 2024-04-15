@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ15 - ContBCD x comportamiento\simulacion
+Egenhab
+Z0 w1713209427
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ17 - GenHab\simulacion
+Z4 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd
+Z5 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd
+l0
+L4
+V^4fn9_MM6`iCJLoFQ]43b1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713209529.960000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd|
+Z9 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 8E3_4<22>ILckRc26MT_I3
+!i10b 1
+Agenhab_arq
+R1
+R2
+DEx4 work 6 genhab 0 22 ^4fn9_MM6`iCJLoFQ]43b1
+l17
+L16
+V2z9NC`ZYMH>`iEZOO:8H`0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 3K5;Dm;TMTN3h6AXj>6_K3
+!i10b 1
+Egenhab_tb
+Z12 w1713209423
+R1
+R2
+R3
+Z13 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd
+Z14 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd
+l0
+L4
+VJig_6M=i88ogeHQS`IcQ00
+!s100 <0X9n54Me;?[QEeckF=Td0
+R6
+32
+!i10b 1
+Z15 !s108 1713209530.076000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd|
+Z17 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenHab/fuentes/genhab_tb.vhd|
+R10
+R11
+Agenhab_tb_arch
+R1
+R2
+DEx4 work 9 genhab_tb 0 22 Jig_6M=i88ogeHQS`IcQ00
+l26
+L7
+VX?V_YW[Y]7DSmck]4dd^R1
+!s100 ImYe8AUQ=@b`NRXRE;Njn3
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
+Egenpulso
+Z18 w1713206323
+R1
+R2
+Z19 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ17 - GenPulso\simulacion
+Z20 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso.vhd
+Z21 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso.vhd
+l0
+L4
+VR5M=GbV`^4C0MnBgTHfi43
+R6
+32
+Z22 !s108 1713206346.056000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso.vhd|
+Z24 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso.vhd|
+R10
+R11
+!s100 lZjJ6FS^fETbGN;o]8]1@2
+!i10b 1
+Agenpulso_arq
+R1
+R2
+DEx4 work 8 genpulso 0 22 R5M=GbV`^4C0MnBgTHfi43
+l17
+L16
+V[VobCz>Ead>H8lc^TC@cZ2
+R6
+32
+R22
+R23
+R24
+R10
+R11
+!s100 BI9XViZ]@8ULbeacBTLk_3
+!i10b 1
+Egenpulso_tb
+Z25 w1713206338
+R1
+R2
+R19
+Z26 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso_tb.vhd
+Z27 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso_tb.vhd
+l0
+L4
+VlQeHC0ZHj>:6[<KLGmLUd1
+R6
+32
+Z28 !s108 1713206346.141000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso_tb.vhd|
+Z30 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ17 - GenPulso/fuentes/genpulso_tb.vhd|
+R10
+R11
+!s100 >Y`3^HiJmmJajE=ZBA2;P0
+!i10b 1
+Agenpulso_tb_arch
+R1
+R2
+DEx4 work 11 genpulso_tb 0 22 lQeHC0ZHj>:6[<KLGmLUd1
+l26
+L7
+VJzz<afdHPR[GBzg<hEej<0
+R6
+32
+R28
+R29
+R30
+R10
+R11
+!s100 <2Vz7B9M?hK>k^n=l<:Jh1
+!i10b 1

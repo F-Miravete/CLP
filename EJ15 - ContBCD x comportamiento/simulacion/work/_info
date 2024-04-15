@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ14 - ContBCD\simulacion
+Econtbcd_1d
+Z0 w1713203926
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\01 - ELECTRONICA\Especializaciones\CESE\10 Circuitos Logicos Programables\Practicas\CLP\EJ15 - ContBCD x comportamiento\simulacion
+Z5 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd
+Z6 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd
+l0
+L9
+VOXP@j??`2]GN;DSYlkaYN1
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1713203935.529000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd|
+Z10 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 B@7`?3]U9_zgVXA8_n32_1
+!i10b 1
+Acontbcd_1d_arch
+R1
+R2
+R3
+DEx4 work 10 contbcd_1d 0 22 OXP@j??`2]GN;DSYlkaYN1
+l23
+L19
+VLNBRG[7KCO^zMW=a17Z^^1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 K93Lc[E`lf4O?IX97_Yz01
+!i10b 1
+Econtbcd_1d_tb
+Z13 w1713203576
+R1
+R2
+R3
+R4
+Z14 8C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd
+Z15 FC:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd
+l0
+L9
+V;6NglYzzhWg4gSES_f8KM0
+!s100 Z<YfjH[fSLczf@XIe@UX:0
+R7
+32
+!i10b 1
+Z16 !s108 1713203935.614000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd|
+Z18 !s107 C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/EJ15 - ContBCD x comportamiento/fuentes/contBCD_1D_tb.vhd|
+R11
+R12
+Acontbcd_1d_tb_arch
+R1
+R2
+R3
+Z19 DEx4 work 13 contbcd_1d_tb 0 22 ;6NglYzzhWg4gSES_f8KM0
+l29
+L12
+Z20 V]m?Q7K?em<jZE4Sf9K1Rb2
+Z21 !s100 21bE;d7Nc[Q^777R9^0Dn3
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12
