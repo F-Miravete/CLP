@@ -23,7 +23,8 @@ entity waveGenerator_VIO_ILA is
     port(
         i_clk: in std_logic;
         i_rst: in std_logic;
-        i_en : in std_logic
+        i_en : in std_logic;
+        o_squ: out std_logic
     );
 end;
 
@@ -96,4 +97,6 @@ begin
               probe2 => probe_squ_out,
               probe3 => probe_saw_out
           );
+          
+    o_squ <= probe_squ_out(11);          
 end;

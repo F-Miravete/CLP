@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1712614501">
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1713297236">
   <File Type="PA-TCL" Name="waveGenerator_VIO_ILA.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="waveGenerator_VIO_ILA_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="waveGenerator_VIO_ILA_reports.tcl"/>
@@ -13,7 +13,7 @@
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/imports/fuentes/sincos_rom.vhd">
       <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/sincos_rom.vhd"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/sincos_rom.vhd"/>
         <Attr Name="ImportTime" Val="1712432086"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -21,7 +21,7 @@
     </File>
     <File Path="$PSRCDIR/sources_1/imports/fuentes/waveGenerator.vhd">
       <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/waveGenerator.vhd"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator.vhd"/>
         <Attr Name="ImportTime" Val="1712620627"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -29,7 +29,7 @@
     </File>
     <File Path="$PSRCDIR/sources_1/imports/fuentes/waveGenerator_VIO_ILA.vhd">
       <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/waveGenerator_VIO_ILA.vhd"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator_VIO_ILA.vhd"/>
         <Attr Name="ImportTime" Val="1712612391"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -45,7 +45,7 @@
     <Filter Type="Constrs"/>
     <File Path="$PSRCDIR/constrs_1/imports/fuentes/waveGenerator_ArtyZ7_10.xdc">
       <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../fuentes/waveGenerator_ArtyZ7_10.xdc"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/fuentes/waveGenerator_ArtyZ7_10.xdc"/>
         <Attr Name="ImportTime" Val="1712620687"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -56,9 +56,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
     <Step Id="synth_design"/>
   </Strategy>
   <BlockFileSet Type="BlockSrcs" Name="vio_0"/>

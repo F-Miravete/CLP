@@ -47,14 +47,13 @@ architecture waveGenerator_arch of waveGenerator is
     
     signal  nco_out       : std_logic_vector(11 downto 0);
     signal  rom_addr      : std_logic_vector(11 downto 0);
-    signal  rom_addr_reg  : std_logic_vector(11 downto 0);
     
     begin
     
     --------------------------------------------------------------------------
     -- Formula del oscilador NCO : i_phase = (Fout / Fclk)*2^12             --
     --                                                                      --
-    -- E.g. Fout = 1,56MHz, Fclk = 100MHz,  i_phase = (1,56/100)*4096 = 64  --
+    -- E.g. Fout = 1,95MHz, Fclk = 125MHz,  i_phase = (1,95/125)*4096 = 64  --
     --                                                                      --    
     --------------------------------------------------------------------------
     
@@ -83,27 +82,17 @@ architecture waveGenerator_arch of waveGenerator is
         i_en    => i_en,
         i_addr  => rom_addr,
         o_sin   => sin_out,
-        o_cos   => cos_out );
-    
-    delay_regs: process(i_clk)
-    begin
-      if i_clk'event and i_clk = '1' then
-        if i_en = '1' then
-          rom_addr_reg <= rom_addr;
-        end if;
-      end if;
-    end process delay_regs;
-    
+        o_cos   => cos_out );    
     --------------------------------------------------------------
     -- Onda cuadrada generada desde el bit MSb del acumulador   --
     --------------------------------------------------------------
     
-    squ_out <= "011111111111" when rom_addr_reg(11) = '1' else "100000000000";
+    squ_out <= "011111111111" when rom_addr(11) = '1' else "100000000000";
     
     --------------------------------------------------------------
     -- Onda diente de sierra generada desde el acumulador       --
     --------------------------------------------------------------
     
-    saw_out <= rom_addr_reg;
+    saw_out <= rom_addr;
         
 end waveGenerator_arch;

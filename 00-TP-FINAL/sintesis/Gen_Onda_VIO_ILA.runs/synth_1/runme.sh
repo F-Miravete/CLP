@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/01 - ELECTRONICA/Especializaciones/CESE/10 Circuitos Logicos Programables/Practicas/CLP/00-TP-FINAL/sintesis/Gen_Onda_VIO_ILA.runs/synth_1'
+HD_PWD='C:/01 - ELECTRONICA/Especializaciones/CESE/FPGA_projects/Gen_Onda_VIO_ILA.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
